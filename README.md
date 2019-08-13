@@ -1,4 +1,10 @@
-# svelte app
+#  TESTING ISSUE
+
+Adding the external svelte-spa-router breaks tests. 
+If the router is removed test running the test works.
+
+
+## svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template-webpack.
 
