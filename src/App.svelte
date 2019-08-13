@@ -20,7 +20,7 @@
 </main>
 
 <!-- 
- Without the router included no error is thrown. Comment out about and uncomment this to see the test running with `npm run test`
+ Without the router included no error is thrown. Comment out above and uncomment this to see the test running with `npm run test`
 <script>
 		import Home from './Home.svelte'
 		import Author from './Author.svelte'
